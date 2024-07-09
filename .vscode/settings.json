@@ -1,0 +1,5 @@
+{
+    "lean4.envPathExtensions": [
+        "C:\\Users\\Pratyush Anand\\.elan\\toolchains\\leanprover--lean4---stable\\bin\\lean.exe"
+    ]
+}
